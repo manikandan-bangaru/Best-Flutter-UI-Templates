@@ -318,7 +318,7 @@ class MediterranesnDietView extends StatelessWidget {
                                             HexColor("#8A98E8"),
                                             HexColor("#8A98E8")
                                           ],
-                                          angle: 140 +
+                                          angle: 10 +
                                               (360 - 140) *
                                                   (1.0 - animation!.value)),
                                       child: SizedBox(
